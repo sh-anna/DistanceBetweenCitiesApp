@@ -1,5 +1,4 @@
 # DistanceBetweenCitiesApp
-============================
 
 General Info
 ------------
