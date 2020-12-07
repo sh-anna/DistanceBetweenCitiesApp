@@ -12,6 +12,6 @@ Technologies
 * Bootstrap
 * Google Maps API
 
-![alt tag]https://github.com/sh-anna/DistanceBetweenCitiesApp/blob/main/Capture.JPG
+![alt tag](https://github.com/sh-anna/DistanceBetweenCitiesApp/blob/main/Capture.JPG)
 
 
